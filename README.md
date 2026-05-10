@@ -21,9 +21,9 @@ This project analyzes media sentiment and reporting bias using Power BI dashboar
 - Certain sources showed stronger directional bias trends.
 
 ## Dashboard Preview
-
+dashboard.png
 
 
 ## Files
 - news_bias_dataset.csv
-- dashboard_preview.png
+- dashboard.png
